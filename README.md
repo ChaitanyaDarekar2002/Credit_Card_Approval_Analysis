@@ -3,6 +3,10 @@
 A data analysis project exploring credit card approval patterns across 500 applicants using Python, Excel, and data visualization.
 
 ---
+## Power BI Dashborad Preview
+
+<img width="1918" height="981" alt="image" src="https://github.com/user-attachments/assets/68516659-8ce3-4254-8f1f-72ff168d85c5" />
+
 
 ## Dataset Overview
 
@@ -47,4 +51,4 @@ A data analysis project exploring credit card approval patterns across 500 appli
 ## Author
 
 **Chaitanya Darekar** — Freelance Data Analyst  
-[LinkedIn](https://linkedin.com/in/chaitanyadarekar) · [GitHub](https://github.com/ChaitanyaDarekar2002) · chaitanyadarekar2002@gmail.com
+[LinkedIn](https://linkedin.com/in/chaitanyadarekar02) · [GitHub](https://github.com/ChaitanyaDarekar2002) · chaitanyadarekar2002@gmail.com
