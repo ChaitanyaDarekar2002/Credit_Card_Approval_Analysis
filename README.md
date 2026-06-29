@@ -37,6 +37,9 @@ A data analysis project exploring credit card approval patterns across 500 appli
 ├── credit_card_approval_database.xlsx   # Main dataset + summary dashboard
 └── README.md
 ```
+## SQL Query Preview
+
+<img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/750be6d7-d752-42f1-9acb-2518b96da5db" />
 
 ---
 
